@@ -15,6 +15,32 @@
       ]
    },
    {
+      "name": "Adrian Sian",
+      "country": "PH",
+      "github_username": "garett09",
+      "telegram_url": "http://t.me/garett09",
+      "devices": [
+         {
+            "codename": "star2lte",
+            "versions": [
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "crownlte",
+            "versions": [
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "starlte",
+            "versions": [
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
       "name": "Ahmad Rulim",
       "country": "ID",
       "github_username": "rulim34",
